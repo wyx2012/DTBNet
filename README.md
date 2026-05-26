@@ -1,5 +1,5 @@
 
-# DTBNet: A Unified Deep Learning Framework with Multimodal Geometric Awareness and Attention Enhancement for Drug-Target Interaction and Binding Affinity Prediction   
+# DTBNet: Multimodal 3D Geometric Perception with Hierarchical Attention for Robust Drug-Target Interaction and Binding Affinity Prediction
 
 ## Overview  
 Accurately predicting **drug-target interactions (DTIs)** and **binding affinity (DTA)** is crucial for drug discovery. However, existing models often lack **3D interaction modeling** and perform poorly in **cold-start scenarios** (new drugs/targets).  
